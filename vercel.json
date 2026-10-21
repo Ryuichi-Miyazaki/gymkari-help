@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/help", "destination": "/", "permanent": true },
+    { "source": "/help/", "destination": "/", "permanent": true }
+  ]
+}
