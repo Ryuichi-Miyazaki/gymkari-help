@@ -37,15 +37,11 @@ order: 2
 
 #### 好きな地名で探す検索
 
-<figure><img src="/images/manual/03-freeword-search.png" alt="好きな地名で探す"></figure>
-
 エリア検索の際に好きな地名での検索が可能です。住所やタイトルなどが検索対象となっているので、「中央区」など区単位での検索が可能です。
 
 チェックボックスに無い駅や、希望の駅やエリアが明確な場合にはこちらから検索いただくのが良いかもしれません。
 
 #### エリアを選択
-
-<figure><img src="/images/manual/04-area-checkbox.png" alt="エリア選択"></figure>
 
 エリアにチェックを入れて検索も可能です。
 
@@ -68,17 +64,11 @@ order: 2
 
 タイトルの下には主な特徴のタブがあります。
 
-<figure><img src="/images/manual/06-feature-tabs.png" alt="特徴タブ"></figure>
-
 当日予約可能や、撮影可能など、よくお問い合わせのある特徴はこちらにも記載されています。
-
-<figure><img src="/images/manual/07-availability.png" alt="空き状況の表示"></figure>
 
 空き状況が大まかに表示されています。主に予約受付している曜日などの確認にお使いください。予約はジムによって当日受付している、前日までや2日前までなど違いがあります。
 
 ### 利用人数など
-
-<figure><img src="/images/manual/08-capacity-space-place.png" alt="利用人数・スペース・場所・予約可能時間"></figure>
 
 最大のご利用人数、スペースの広さ、大まかな住所（建物名や部屋番号は予約後に送られます）、予約可能時間の記載があります。
 
@@ -89,13 +79,9 @@ order: 2
 
 ### ジムの紹介
 
-<figure><img src="/images/manual/09-gym-intro.png" alt="ジムの紹介文"></figure>
-
 ジムについての紹介文章です。
 
 ### ジムの設備
-
-<figure><img src="/images/manual/10-gym-equipment.png" alt="ジムの設備"></figure>
 
 設備や特徴、鍵、スタッフについて記載されています。
 
@@ -106,15 +92,11 @@ order: 2
 
 ### 禁止事項
 
-<figure><img src="/images/manual/11-prohibited.png" alt="禁止事項"></figure>
-
 床引きデッドリフトやジャンプなど音や振動の大きな種目はほとんどのジムで禁止となっています。可能なジムは記載がございます。
 
 <div class="alert alert-yellow">利用可能なお時間は入室から退室までが基本です。超えないようお願いいたします。</div>
 
 ### キャンセルポリシー
-
-<figure><img src="/images/manual/12-cancel-policy.png" alt="キャンセルポリシー"></figure>
 
 キャンセルはご利用日当日の0時以降、100％のキャンセル料金となります。
 
@@ -128,15 +110,11 @@ order: 2
 
 ### 注意事項・個別規約
 
-<figure><img src="/images/manual/13-notes-rules.png" alt="注意事項・個別規約"></figure>
-
 基本的なジムカリの「利用規約」以外にも、こちらに記載の個別規約があればお守りいただくようお願いいたします。
 
 ご予約後にはジムとメッセージでやり取りができるので、疑問点などあればそちらからご確認ください。事前に確認したい点があればジムカリのお問い合わせフォームからお問い合わせください。
 
 ### レビュー
-
-<figure><img src="/images/manual/14-reviews.png" alt="レビュー"></figure>
 
 ジムをご利用された方のレビューです。
 
@@ -145,8 +123,6 @@ order: 2
 ## 予約の入れ方
 
 ### 30分見学予約（各ジム1回のみ）
-
-<figure><img src="/images/manual/15-trial-booking.png" alt="30分見学予約"></figure>
 
 ユーザー登録をした状態でジムページを開くと、「30分見学予約」という項目が出ます。こちらはログインしていない時には出ないのでご注意ください。
 
@@ -170,13 +146,9 @@ order: 2
 
 クリックすると時間の選択になります。60分からで、以降15分ずつ調整が可能です。
 
-<figure><img src="/images/manual/18-selected-slots.png" alt="選択済みの予約"></figure>
-
 予約が入ったところはオレンジになります。選択した日程は上部に表示され、×をクリックすると消せます。
 
 ## 予約確定
-
-<figure><img src="/images/manual/19-confirm-screen.png" alt="予約確認画面"></figure>
 
 日付を選択した後は予約確認画面になります。
 
@@ -194,21 +166,15 @@ order: 2
 
 ## 予約の確認
 
-<figure><img src="/images/manual/20-confirm-mail.png" alt="予約確認メール"></figure>
-
 予約をすると予約内容の確認メールが届きます。予約内容が間違いないかご確認ください。
 
 何かあった時のためのジムの電話番号も記載されています。メール下部に、ジムとメッセージでやり取りするリンクもあります。こちらからご連絡をお願いいたします。
 
 ## 予約履歴
 
-<figure><img src="/images/manual/21-history-menu.png" alt="予約一覧/履歴メニュー"></figure>
-
 メニューの「予約一覧/履歴」から予約履歴を見ることができます。ジムと連絡を取りたい場合や、入室方法の確認、住所の確認、予約のキャンセルなどはこちらからお願いいたします。
 
 ### 予約一覧
-
-<figure><img src="/images/manual/22-history-list.png" alt="予約一覧"></figure>
 
 予約が一覧で並びます。日時で絞り込むことも可能です。
 

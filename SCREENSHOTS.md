@@ -1,4 +1,4 @@
-# スクリーンショット撮影リスト（33枚）
+# スクリーンショット撮影リスト（16枚）
 
 保存先は `public/images/` 配下。ファイル名は下の表の通り（PNG、横幅1000〜1400px程度、PCブラウザで撮れば十分）。
 撮れない・不要と判断したものは放置でOK（画像が無い間は自動で非表示になります）。
@@ -38,26 +38,9 @@ incoming/ の画像を public/images/ に配置して。対応は次の通り：
 |---|---|---|
 | 21 | `manual/01-top-search-box.png` | TOPページの検索ボックス（エリア・器具設備の入力部分） |
 | 22 | `manual/02-area-search.png` | 「エリアから検索」をクリックして開いた検索ボックス全体 |
-| 23 | `manual/03-freeword-search.png` | 検索ボックス上部の「好きな地名から探す」入力欄 |
-| 24 | `manual/04-area-checkbox.png` | 都道府県タブとエリア・駅名のチェックボックス一覧 |
 | 25 | `manual/05-gym-top-image.png` | ジム個別ページのトップ画像（右下の枚数表示、右上のハートが写るように） |
-| 26 | `manual/06-feature-tabs.png` | ジム個別ページのタイトル下にある特徴タブ |
-| 27 | `manual/07-availability.png` | ジム個別ページの空き状況表示 |
-| 28 | `manual/08-capacity-space-place.png` | 最大収容人数・トレーニングスペース・場所・予約可能時間のブロック |
-| 29 | `manual/09-gym-intro.png` | 「ジムについて」の紹介文ブロック |
-| 30 | `manual/10-gym-equipment.png` | 器具・特徴・鍵・スタッフのブロック |
-| 31 | `manual/11-prohibited.png` | 禁止事項のブロック |
-| 32 | `manual/12-cancel-policy.png` | キャンセルポリシーのブロック |
-| 33 | `manual/13-notes-rules.png` | 注意事項・個別規約のブロック |
-| 34 | `manual/14-reviews.png` | レビュー欄 |
-| 35 | `manual/15-trial-booking.png` | ログイン状態のジムページに出る「30分見学予約」のボタン |
 | 36 | `manual/16-booking-calendar.png` | 「予約へ進む」後の予約カレンダー（グレーと白の違いが分かる状態） |
 | 37 | `manual/17-time-select.png` | 日付をクリックして出る時間選択のUI |
-| 38 | `manual/18-selected-slots.png` | 予約枠を選んだ後（オレンジ表示と上部の選択済み日程） |
-| 39 | `manual/19-confirm-screen.png` | 予約確認画面（ポイント入力欄・カード選択が写るように） |
-| 40 | `manual/20-confirm-mail.png` | 予約完了メールの本文（ジムの電話番号とメッセージリンク部分） |
-| 41 | `manual/21-history-menu.png` | メニューの「予約一覧/履歴」の位置 |
-| 42 | `manual/22-history-list.png` | 予約一覧（電話番号・メッセージ・キャンセルボタンが見える行） |
 
 ## C. よくある質問（faq/）
 
@@ -73,5 +56,4 @@ incoming/ の画像を public/images/ に配置して。対応は次の通り：
 
 ### 撮影のコツ
 - 個人情報（自分の名前・メール・カード下4桁など）が写る画面はモザイクを入れるか、ダミーアカウントで撮る
-- 同じ画面から複数枚切り出すもの（#28〜34 はジム個別ページ1枚から）は、1枚を撮って必要な部分をトリミングすればよい
 - `#10` `#11` の写真例は掲載施設のものを使うなら、その施設に一言断りを入れる
