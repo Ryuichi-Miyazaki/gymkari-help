@@ -1,4 +1,4 @@
-# スクリーンショット撮影リスト（47枚）
+# スクリーンショット撮影リスト（33枚）
 
 保存先は `public/images/` 配下。ファイル名は下の表の通り（PNG、横幅1000〜1400px程度、PCブラウザで撮れば十分）。
 撮れない・不要と判断したものは放置でOK（画像が無い間は自動で非表示になります）。
@@ -27,24 +27,10 @@ incoming/ の画像を public/images/ に配置して。対応は次の通り：
 |---|---|---|
 | 1 | `register/01-menu-signup.png` | ジムカリTOPのメニューを開いた状態。「会員登録」の位置が分かるように |
 | 2 | `register/02-signup-form.png` | 会員登録フォーム。**「ジムを貸し出す」のチェックボックス**が写るように |
-| 3 | `register/03-mail-verify.png` | 届いたメール認証メールの本文（URLの部分） |
-| 4 | `register/04-user-info.png` | メール認証後のユーザー情報登録フォーム全体 |
-| 5 | `register/05-settings-gym-manage.png` | メニュー「設定」→「ジム管理」の導線（横長のメニュー部分だけでよい） |
-| 6 | `register/06-add-gym-button.png` | ジム管理画面の「ジムを登録する」ボタン |
-| 7 | `register/07-gym-form-1.png` | ジム登録1ページ目：ジム名・表示名・住所・最寄り駅の入力欄 |
-| 8 | `register/08-gym-form-2.png` | ジム登録1ページ目の続き：所在エリア・最大収容人数・トレーニングスペース・ジムについて・鍵の受け渡し |
-| 9 | `register/09-photo-upload.png` | ジム登録2ページ目：写真アップロード画面 |
 | 10 | `register/10-good-photo-example-1.jpg` | 良いトップ写真の例①（広いジムの全景。掲載中の施設から借用、または自社店舗） |
 | 11 | `register/11-good-photo-example-2.jpg` | 良いトップ写真の例②（コンパクトなジムのパワーラック正面） |
-| 12 | `register/12-price-time.png` | ジム登録3ページ目：価格と貸し出し時間帯の設定 |
-| 13 | `register/13-equipment.png` | ジム登録4ページ目：マシン・器具のチェック欄 |
-| 14 | `register/14-features-input.png` | 同ページ：特徴の入力欄（チェックボックス群） |
-| 15 | `register/15-features-tags.png` | 施設一覧ページで、特徴がタグとして表示されている例 |
-| 16 | `register/16-key-staff-rules.png` | 鍵の受け渡し方法・スタッフ常駐・禁止事項・注意事項の入力欄 |
-| 17 | `register/17-deadline-period.png` | 予約締め切り時間と受付期間（何日先まで）の設定欄 |
 | 18 | `register/18-calendar-sync-tab.png` | 「設定」画面上部の「カレンダー同期」タブ |
 | 19 | `register/19-gcal-plus-button.png` | Googleカレンダー左側「他のカレンダー」横の「＋」ボタン |
-| 20 | `register/20-gcal-new-calendar.png` | 「＋」を押して出るメニュー（「新しいカレンダーを作成」が見える状態） |
 
 ## B. 利用マニュアル（manual/）— 一般利用者のアカウントで撮る
 
