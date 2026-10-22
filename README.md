@@ -12,7 +12,7 @@ content/
   categories.json     FAQのカテゴリ定義（表示順もここ）
 app/
   page.tsx            トップ
-  faq/page.tsx        よくある質問（検索・対象フィルタ・項目ごとの問い合わせボタン）
+  faq/page.tsx        よくある質問（検索・対象フィルタ。問い合わせはページ末尾）
   [slug]/page.tsx     ガイド（content/guides のファイル名がURLになる）
   layout.tsx          ヘッダー・フッター
   globals.css         スタイル
@@ -48,14 +48,11 @@ order: 21              # 表示順（小さい順）
 audience: user         # user / owner（フィルタ用）
 ---
 
-回答本文。Markdown が使えます。画像は
-<figure><img src="/images/faq/xx.png" alt="説明"></figure>
-の形で書きます。
+回答本文。Markdown が使えます。FAQはテキストのみで、画像は置きません。
 ```
 
-ファイル名（例 `pay-21.md`）がそのまま項目のアンカーIDと、問い合わせボタンの `?q=` パラメータになります。
-問い合わせボタンは `https://gymkari.jp/contact?ref=faq&q=<ファイル名>` に飛ぶので、
-フォーム側でこのパラメータを拾えば「どのFAQから来たか」が分かります（拾わなくても動作に影響はありません）。
+ファイル名（例 `pay-21.md`）が項目のアンカーIDになります（`/faq/#pay-21`）。
+問い合わせはページ末尾のボタンと、トップページの導線にまとめています。
 
 ## 開発・ビルド
 

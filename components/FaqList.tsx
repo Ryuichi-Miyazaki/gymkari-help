@@ -111,15 +111,7 @@ export default function FaqList({ categories, items }: { categories: Category[];
                 }}
               >
                 <summary>{it.question}</summary>
-                <div className="faq-body">
-                  <div dangerouslySetInnerHTML={{ __html: it.html }} />
-                  <div className="faq-actions">
-                    <span>この回答で解決しませんでしたか？</span>
-                    <a className="btn" href={contactLink(it.slug)} target="_blank" rel="noopener">
-                      この件について問い合わせる
-                    </a>
-                  </div>
-                </div>
+                <div className="faq-body" dangerouslySetInnerHTML={{ __html: it.html }} />
               </details>
             ))}
           </section>

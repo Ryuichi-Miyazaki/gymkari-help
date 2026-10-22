@@ -166,8 +166,7 @@ details.faq summary::after {
 }
 details.faq[open] summary::after { content: "−"; }
 details.faq[open] summary { border-bottom: 1px solid var(--line); }
-.faq-body { padding: 14px 16px 4px; }
-.faq-body figure { margin: 8px 0 16px; }
+.faq-body { padding: 14px 16px 16px; }
 
 /* index cards */
 .cards {
@@ -234,18 +233,6 @@ details.faq[open] summary { border-bottom: 1px solid var(--line); }
 }
 .seg button.on { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
 .faq-empty { color: var(--muted); padding: 24px 0; }
-.faq-actions {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-  flex-wrap: wrap;
-  border-top: 1px dashed var(--line);
-  margin-top: 8px;
-  padding: 12px 0 10px;
-  font-size: 14px;
-  color: var(--muted);
-}
 .btn {
   display: inline-block;
   padding: 8px 14px;
